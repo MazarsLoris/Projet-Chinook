@@ -20,23 +20,17 @@ Pendant ce projet j'ai du mettre à l'épreuve mes connaissances dans les compé
 
  #### Requêtes de base
  
- **1.Clients non américains :** Fournissez une requête affichant les
- Clients (leurs noms complets, ID client et pays) qui ne sont pas aux
- États-Unis.
- **2.  Clients brésiliens :** Fournissez une requête affichant uniquement
- les Clients provenant du Brésil.
- **3. Factures des clients brésiliens :** Fournissez une requête affichant
- les factures des clients qui sont du Brésil.
- Le tableau résultant doit inclure le nom complet du client, l'ID de la
- facture, la date de la facture et le pays de facturation.
- **4. Agents de vente :** Fournissez une requête affichant uniquement
- les employés qui sont des Agents de Vente
+**1.Clients non américains :** Fournissez une requête affichant les Clients (leurs noms complets, ID client et pays) qui ne sont pas auxÉtats-Unis.
+**2.  Clients brésiliens :** Fournissez une requête affichant uniquementles Clients provenant du Brésil.
+*3. Factures des clients brésiliens :** Fournissez une requête affichantles factures des clients qui sont du Brésil.
+Le tableau résultant doit inclure le nom complet du client, l'ID de la facture, la date de la facture et le pays de facturation.
+**4. Agents de vente :** Fournissez une requête affichant uniquement les employés qui sont des Agents de Vente
  
  #### Agrégations et relations
  
- **5. Pays uniques dans les factures :** Fournissez une requête affichant
+**5. Pays uniques dans les factures :** Fournissez une requête affichant
  une liste unique des pays de facturation présents dans la table Invoice.
- **6. Factures par agent de vente :** Fournissez une requête affichant les
+**6. Factures par agent de vente :** Fournissez une requête affichant les
  factures associées à chaque agent de vente.
  Le tableau résultant doit inclure le nom complet de l'agent de
  vente.
