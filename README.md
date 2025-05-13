@@ -112,4 +112,16 @@ Pendant ce projet j'ai du mettre à l'épreuve mes connaissances dans les compé
 26. **Type de média le plus acheté**  
     Afficher le type de média le plus acheté.
 
+## 📚 Ressources supplémentaires
+
+- [SQL Course](https://www.sqlcourse.com/)
+- [Cheatsheet SQL sur GitHub](https://github.com/enochtangg/quick-SQL-cheatsheet)
+- [SQL Cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+- [Sololearn - Cours SQL](https://www.sololearn.com/Course/SQL/)
+
+### 📌 Source des exercices
+
+Ces exercices sont adaptés de la ressource suivante :  
+[GitHub - LucasMcL/15-sql_queries_02-chinook](https://github.com/LucasMcL/15-sql_queries_02-chinook)
+
 ## ✨ Carte mentale du projet
