@@ -191,7 +191,7 @@ limit 1;
    8. Analyses des morceaux et des artistes
 ********************************************************************************/
 
--- 23.  Morceau le plus acheté en 2013: Afficher le morceau le plus acheté en 2023.
+-- 23.  Morceau le plus acheté en 2023: Afficher le morceau le plus acheté en 2023.
 select sum(invoiceline.Quantity) as Quantité, track.Name as Morceau
 from invoiceline
 join track
