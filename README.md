@@ -43,18 +43,19 @@ Les vues SQL peuvent être connectées à Power BI pour créer un rapport intera
 ---
 
 ## 📁 Structure du dépôt
+```
 ├── README.md               # Ce fichier
-├── vues_sql/               # Vues SQL créées pour automatiser les analyses
-│   ├── vue_clients_bresiliens.sql
-│   ├── vue_ventes_par_agent.sql
+├── Vues_Chinook_databas_sql/               # Vues SQL créées pour automatiser les analyses
+│   ├── Clients_non_USA.sql
+│   ├── Clients_Bresil.sql
 │   └── ...
-├── requetes_sql/           # Requêtes SQL de base, organisées par thème
+├── Requetes_Chinook_Database_sql/           # Requêtes SQL de base, organisées par thème
 │   ├── 01_requetes_de_base.sql
 │   ├── 02_agregations.sql
 │   └── ...
-├── rapport_powerbi/        # Fichiers Power BI (optionnel)
-│   └── rapport.pbix
-
+├── rapport_Chinook_powerbi/        
+│   └── Dashboard.pbix
+```
 ---
 
 ## 📚 Ressources supplémentaires
