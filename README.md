@@ -68,6 +68,6 @@ Les vues SQL peuvent être connectées à Power BI pour créer un rapport intera
 ### 📌 Source des exercices
 
 Ces exercices sont adaptés de la ressource suivante :  
-[GitHub - LucasMcL/15-sql_queries_02-chinook](https://github.com/LucasMcL/15-sql_queries_02-chinook)
-Le projet vient du programme « 12 projets pour devenir Data Analyst » proposé par Natacha Njongwa Yepnga.
+- [GitHub - LucasMcL/15-sql_queries_02-chinook](https://github.com/LucasMcL/15-sql_queries_02-chinook)
+- Le projet vient du programme « 12 projets pour devenir Data Analyst » proposé par Natacha Njongwa Yepnga.
 
