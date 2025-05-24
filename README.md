@@ -10,7 +10,13 @@ L'objectif de ce projet est d'utiliser SQL pour extraire, filtrer et agréger le
 
 ## 📊 Aperçu des données
 
-*(Ajouter ici une description ou un aperçu visuel de la base de données si nécessaire)*
+La base Chinook simule un magasin de musique numérique. Elle contient 11 tables relationnelles couvrant les artistes, albums, morceaux, clients, factures, employés, genres, formats et playlists.
+
+Elle permet d'explorer :
+
+Les relations entre ventes, clients et agents
+
+La structure d’un catalogue musical (artistes, albums, morceaux)
 
 ## 🛠️ Compétences mises en avant
 
@@ -44,17 +50,17 @@ Les vues SQL peuvent être connectées à Power BI pour créer un rapport intera
 
 ## 📁 Structure du dépôt
 ```
-├── README.md               # Ce fichier 
-├── Requetes_Chinook_Database_sql/            #  Requêtes SQL de base, organisées par thème
+├── Dashboard_Chinook_powerbi/            
+│   └── Dashboard.pdf
+├── README.md         
+├── Requetes_Chinook_Database_sql/          
 │   ├── 01_requetes_de_base.sql
 │   ├── 02_agregations.sql
 │   └── ...
-├── Vues_Chinook_databas_sql/          # Vues SQL créées pour automatiser les analyses 
+├── Vues_Chinook_databas_sql/      
 │   ├── Clients_non_USA.sql
-│   ├── Clients_Bresil.sql
+│   └── Clients_Bresil.sql
 │   └── ...
-├── rapport_Chinook_powerbi/        
-│   └── Dashboard.pbix
 ```
 ---
 
