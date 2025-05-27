@@ -50,8 +50,8 @@ Les vues SQL peuvent être connectées à Power BI pour créer un rapport intera
 
 ## 📁 Structure du dépôt
 ```
-├── Dashboard_Chinook_powerbi/            
-│   └── Dashboard.pdf
+├── Rapport_Chinook_powerbi/            
+│   └── Rapport_Chinook.pdf
 ├── README.md         
 ├── Requetes_Chinook_Database_sql/          
 │   ├── 01_requetes_de_base.sql
